@@ -1,0 +1,7 @@
+<!--components/home/srn_home/five/five.wxml-->
+<view class="Eview">
+    <view class="Ebox" wx:for="{{five}}" wx:key="index"> 
+        <image class="Eimg" src="{{item.img}}"/>
+        <text class="">{{item.txt}}</text>
+    </view>
+</view>

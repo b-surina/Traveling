@@ -1,0 +1,16 @@
+/* components/home/srn_home/inform/inform.wxss */
+.Iview{
+    width:100%;
+    height:70rpx;
+    padding:30rpx;
+    box-sizing: border-box;
+    display:flex;
+   
+}
+.Iimg{
+    width:46rpx;
+    height: 40rpx;
+}
+.txt{
+    margin-left: 10rpx;
+}

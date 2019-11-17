@@ -1,0 +1,5 @@
+<!--components/home/srn_home/one/one.wxml-->
+<view class="Oview" wx:for="{{one}}" wx:key="index">
+    <image class="Oimg" src="{{item}}" />
+</view>
+  

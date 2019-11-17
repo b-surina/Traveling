@@ -1,0 +1,12 @@
+<!--components/home/srn_home/inform/inform.wxml-->
+<view class="Iview">
+    <image class="Iimg" src="/images/06.png"/>
+    <view class="txt">
+        <scroll-view scroll-y="{{true}}" style="height:50rpx;">
+          <view>12345566</view>
+          <view>zxcvbnm</view>
+          <view>年休假这款车度搜福</view>
+        </scroll-view>
+    </view>
+</view>
+  

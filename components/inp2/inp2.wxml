@@ -1,0 +1,20 @@
+<!--components/inp2/inp2.wxml-->
+<view class="inp2">
+    <view class="txt_box">
+        <text class="txt">车+门票</text>
+    </view>
+    <view class="box">
+        <view class="s_box">
+            <view class="top">
+                <text class="color1"> • </text>
+                <text class="">请选择出发地</text>
+            </view>
+            <view class="bottom">
+                <text class="color2"> • </text>
+                <text class="">请选择目的地</text>     
+            </view>  
+        </view>
+        <view class="radius"> ↕↕ </view>
+    </view>
+</view>
+  

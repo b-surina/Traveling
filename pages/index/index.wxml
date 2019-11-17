@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view>
+  <Head></Head>
+  <Banner ban="{{banner}}"></Banner>
+  <Four four="{{four}}"></Four>
+  <Five five="{{five}}"></Five>
+  <One one="{{one}}"></One>
+  <Inform></Inform>
+</view>
+

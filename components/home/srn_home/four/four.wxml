@@ -1,0 +1,10 @@
+<!--components/home/srn_home/four/four.wxml-->
+<view class="Fview">
+    <view class="Fbox" wx:for="{{four}}" wx:key="index">
+    <navigator url="{{item.url}}" class="Fdiv">
+        <image class="Fimg" src="{{item.img}}"/>
+        <text class="">{{item.txt}}</text>
+    </navigator>
+    </view>
+</view>
+  

@@ -1,0 +1,23 @@
+<!--components/home/destination/destination.wxml-->
+<view class="txt">
+    <text >选择目的地</text>
+</view>
+<view class="hot">
+<text class="h">|</text>
+    <text class="hot_txt">热门景区</text>
+    <view class="hot_ul">
+        <text class="hot_li" wx:for="{{hotArr}}">{{item}}</text>
+    </view>    
+</view>
+<view class="hot">
+<text class="h">|</text>
+    <text class="hot_txt">其他景区</text>
+    <view class="hot_ul">
+        <text class="hot_li" wx:for="{{other}}">{{item}}</text>
+    </view>    
+</view>
+  
+  
+
+  
+  

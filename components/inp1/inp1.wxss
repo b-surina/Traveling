@@ -1,0 +1,28 @@
+/* components/inp1/inp2.wxss */
+.inp1{
+    width:100%;
+    height:200rpx;
+    background: #fed106;
+}
+.txt_box{
+    width:100%;
+    height: 100rpx;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.txt{
+    font-weight: 600;
+}
+.box{
+    width:100%;
+    display:flex;
+    justify-content: center;
+}
+.inp{
+    width:90%;
+    height:70rpx;
+    background: white;
+    border:1px solid white;
+    border-radius: 10rpx;
+}

@@ -1,0 +1,58 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/psp/psp",
+    "pages/cart/cart",
+    "pages/order/order",
+    "pages/me/me",
+    "components/home/srn_home/head/head",
+    "components/home/srn_home/banner/banner",
+    "components/destination/destination"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fcd202",
+    "navigationBarTitleText": "景区直通车",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#fcfcfc",
+    "selectedColor": "#f9d306",
+    "backgroundColor":"#2c2c2c",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/h1.png",
+        "selectedIconPath": "images/h2.png"
+      },
+      {
+        "pagePath": "pages/psp/psp",
+        "text": "攻略",
+        "iconPath": "images/s1.png",
+        "selectedIconPath": "images/s2.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "购物车",
+        "iconPath": "images/c1.png",
+        "selectedIconPath": "images/c2.png"
+      },
+      {
+        "pagePath": "pages/order/order",
+        "text": "订单",
+        "iconPath": "images/d1.png",
+        "selectedIconPath": "images/d2.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "images/m1.png",
+        "selectedIconPath": "images/m2.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+/* components/inp2/inp2.wxss */
+.inp2{
+    width:100%;
+    height:270rpx;
+    background: #fed106;
+}
+.txt_box{
+    width:100%;
+    height: 100rpx;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.txt{
+    font-weight: 600;
+}
+.box{
+    width:80%;
+    height: 200rpx;
+    background: white;
+    border-radius: 10rpx;
+    margin: 0 auto;
+    box-shadow: 10rpx  10rpx  10px #000;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0 10rpx;
+}
+.s_box{
+    width:70%;
+    height: 100%;
+    padding:0 10rpx;
+}
+.top{
+    display:flex;
+    width:100%;
+    height: 50%;
+    border-bottom:1px solid;
+    line-height: 100rpx;
+}
+.bottom{
+    display:flex;
+    width:100%;
+    height: 50%;
+    line-height: 100rpx;
+}
+.color1{
+    color:green;
+}
+.color2{
+    color:red;
+}
+.radius{
+    width:50rpx;
+    height:50rpx;
+    border:1rpx solid;
+    border-radius: 50%;
+    text-align: center;
+}

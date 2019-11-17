@@ -1,0 +1,10 @@
+/* components/home/srn_home/banner/banner.wxss */
+.banner{
+    width:100%;
+    height: 332rpx;
+    border:1rpx solid #fed106;
+}
+.B_img{
+    width:100%;
+    height: 100%;
+}

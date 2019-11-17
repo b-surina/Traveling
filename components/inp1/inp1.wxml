@@ -1,0 +1,13 @@
+<!--components/inp1/inp2.wxml-->
+<view class="inp1">
+    <view class="txt_box">
+        <text class="txt">车+门票</text>
+    </view>
+    <view class="box">
+        <input class="inp" value="" type="text"  placeholder="搜索关键字" placeholder-style="margin-left:10rpx" placeholder-class="input-placeholder"></input>
+    </view>
+</view>
+<view>
+    12345
+</view>
+  

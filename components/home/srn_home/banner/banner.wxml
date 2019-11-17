@@ -1,0 +1,8 @@
+<!--components/home/srn_home/banner/banner.wxml-->
+<view>
+  <swiper  autoplay="{{true}}">
+    <swiper-item class="banner" wx:for="{{ban}}" wx:key="index">
+      <image class="B_img" src="{{item}}"/>
+    </swiper-item>
+  </swiper > 
+</view>

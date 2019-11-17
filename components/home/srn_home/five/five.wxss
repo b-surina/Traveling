@@ -1,0 +1,20 @@
+/* components/home/srn_home/five/five.wxss */
+.Eview{
+    width:100%;
+    height: 132rpx;
+    display:flex;
+    /* justify-content: space-around;
+    align-items: center; */
+}
+.Ebox{
+    width:20%;
+    height: 100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.Eimg{
+    width:70rpx;
+    height:66rpx;
+} 

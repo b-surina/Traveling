@@ -1,0 +1,20 @@
+/* components/home/srn_home/four/four.wxss */
+.Fview{
+    width:100%;
+    height: 200rpx;
+    display:flex;
+}
+.Fbox{
+    width:25%;
+    height: 100%;
+}
+.Fdiv{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.Fimg{
+    width:115rpx;
+    height: 115rpx;
+} 

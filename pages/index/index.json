@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "Head":"/components/home/srn_home/head/head",
+    "Banner":"/components/home/srn_home/banner/banner",
+    "Four":"/components/home/srn_home/four/four",
+    "Five":"/components/home/srn_home/five/five",
+    "One":"/components/home/srn_home/one/one",
+    "Inform":"/components/home/srn_home/inform/inform"
+  }
+}

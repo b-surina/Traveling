@@ -1,0 +1,12 @@
+/* components/home/srn_home/one/one.wxss */
+.Oview{
+    width:100%;
+    height: 246rpx;
+    padding:20rpx;
+    box-sizing: border-box;
+    margin-top: 10rpx;
+}
+.Oimg{
+    width:100%;
+    height: 100%;
+}
